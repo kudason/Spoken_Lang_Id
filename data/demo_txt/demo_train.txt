@@ -1,0 +1,6 @@
+bacnam/audio/test/3490414.wav bacnam
+bacnam/audio/test/3490438.wav bacnam
+bacnam/audio/test/3490454.wav bacnam
+bacnam/audio/test/3537868.wav bacnam
+bacnam/audio/test/3537903.wav bacnam
+bacnam/audio/test/3554768.wav bacnam
