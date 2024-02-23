@@ -1,2 +1,4 @@
-bacnam
+bac
+trung
+nam
 other
