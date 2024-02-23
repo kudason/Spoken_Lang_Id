@@ -1,12 +1,0 @@
-#==================================================
-#speech config: {'sample_rate': 16000, 'frame_ms': 25, 'stride_ms': 10, 'num_feature_bins': 80, 'feature_type': 'log_mel_spectrogram', 'preemphasis': 0.97, 'normalize_signal': True, 'normalize_feature': True, 'normalize_per_feature': False}
-#--------------------------------------------------
-#model config: {'name': 'acrnn', 'd_model': 64, 'filters': [32, 64, 64], 'kernel_size': [[11, 5], [11, 5], [11, 5]], 'rnn_cell': 256, 'seq_mask': True}
-#--------------------------------------------------
-#dataset config: {'vocabulary': 'vocab/vocab.txt', 'data_path': './data/wavs/', 'corpus_name': './data/demo_txt/demo', 'file_nums': 1, 'max_audio_length': 50000, 'shuffle_size': 1200, 'data_length': 'None', 'suffix': '.txt', 'load_type': 'txt', 'train': 'train', 'dev': 'dev', 'test': 'test'}
-#--------------------------------------------------
-#optimizer config: {'init_steps': 0, 'warmup_steps': 10000, 'max_lr': 0.0001, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-09}
-#--------------------------------------------------
-#running config: {'prefetch': False, 'load_weights': './saved_weights/20230228-084356/last/model', 'num_epochs': 30, 'batch_size': 1, 'train_steps': 50, 'dev_steps': 10, 'test_steps': 10}
-#==================================================
-Epoch 1, Loss: 0.2202, Val Loss: 0.1986, Val Acc: nan, test ACC: nan,F1: 100.0000, precision: 100.0000, recall: 100.0000, Time Cost: 708.33 secEpoch 2, Loss: 0.1986, Val Loss: 0.1986, Val Acc: nan, test ACC: nan,F1: 100.0000, precision: 100.0000, recall: 100.0000, Time Cost: 738.59 secEpoch 3, Loss: 0.1985, Val Loss: 0.1985, Val Acc: nan, test ACC: nan,F1: 100.0000, precision: 100.0000, recall: 100.0000, Time Cost: 638.89 secEpoch 4, Loss: 0.1985, Val Loss: 0.1985, Val Acc: nan, test ACC: nan,F1: 100.0000, precision: 100.0000, recall: 100.0000, Time Cost: 626.31 sec
