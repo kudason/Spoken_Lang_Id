@@ -42,7 +42,7 @@ optimizer_config:
 running_config:
   prefetch: False
   load_weights: ./saved_weights/20230228-084356/last/model
-  num_epochs: 30
+  num_epochs: 50
   batch_size: 1
   train_steps: 50
   dev_steps: 10
