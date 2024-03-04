@@ -7,3 +7,6 @@ scikit-learn==1.0.1
 librosa==0.8.1
 SoundFile==0.10.3.post1
 PyYAML==6.0
+flask
+termcolor
+six
